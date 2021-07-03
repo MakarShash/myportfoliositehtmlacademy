@@ -168,7 +168,10 @@ body {
   background-color: #288be6;
   color: #ffffff;
 }
-
+.blog{
+  margin-top: 32px;
+  margin-left: 188px;
+}
 .page-footer {
   padding: 40px 0;
   background-color: #00417d;
@@ -190,8 +193,4 @@ body {
 .footer-phone {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
-}
-.blog{
-  margin-top: 32px;
-  margin-left: 188px;
 }
